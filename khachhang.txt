@@ -1,0 +1,2 @@
+Ma Khach hang: KH01 | Ho ten: Nguyen Van A | Ngay sinh: 01/01/2000 | Gioi tinh : Nam | Dia chi: AG | Dien thoai: 0123456789
+Ma Khach hang: KHTV01 | Ho ten: Nguyen Van B | Ngay sinh: 01/01/2000 | Gioi tinh : Nam | Dia chi: BD | Dien thoai: 0123456789 | Diem tich luy: 0

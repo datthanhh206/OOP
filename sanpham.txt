@@ -1,0 +1,2 @@
+Ma San Pham: SP01 | Ten San Pham: Sting | Gia: 8000.0 | So Luong: 10 | Han su dung: 2036-03-06 | Dung tich: 3.6 | Thanh Tien: 80000.0
+Ma San Pham: SP02 | Ten San Pham: Rong Do | Gia: 8000.0 | So Luong: 10 | Han su dung: 2036-03-06 | Dung tich: 3.6 | Thanh Tien: 80000.0
